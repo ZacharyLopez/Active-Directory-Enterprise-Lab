@@ -12,7 +12,7 @@ The goal of this lab was to simulate a real small-enterprise on-prem identity an
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](diagram/diagram.png)
 
 This architecture simulates a small enterprise environment where a Windows Server 2022 Domain Controller provides **Active Directory, DNS, DHCP, and NAT routing** services to an internal Windows 10 client network.
 
